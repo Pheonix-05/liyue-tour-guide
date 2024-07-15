@@ -75,9 +75,10 @@ body {
 }
 
 #maryann {
-    width: 200px;
-    margin: 40px 20px 20px;
-    height: fit-content;
+    width: fit-content;
+    margin: 20px;
+    padding: auto 0px;
+    height: 240px;
 }
 
 #guide-notes {
